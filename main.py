@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     
     
-    ################# For Bitcoin Dataset Uncomment The Following Lines (Code may take 3-4 hours to run based on system configuration) ######################
+    ################# For Bitcoin Dataset Uncomment The Following Lines (Code may take 10-15 min to run based on system configuration) ######################
     '''Note that nodes without any edges have been filtered out, the import function can be altered 
     to plot the actual dataset, but while running the algorithm it is advisable to filter out individual 
     nodes without any edges.'''
