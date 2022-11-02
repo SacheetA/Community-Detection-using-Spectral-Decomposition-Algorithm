@@ -43,7 +43,7 @@ if __name__ == "__main__":
     plot_adjMat(clustered_adj_mat_fb)
 
 
-    ### For Bitcoin Dataset Uncomment The Following Lines (Code may take 10-15 min to run) #########
+    ################# For Bitcoin Dataset Uncomment The Following Lines (Code may take 3-4 hours to run based on system configuration) ######################
 
 
     # nodes_connectivity_list_btc = import_bitcoin_data("../data/soc-sign-bitcoinotc.csv")
